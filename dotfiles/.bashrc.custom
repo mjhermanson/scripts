@@ -1,7 +1,5 @@
 # .bashrc
 # This file is managed by Puppet.  Changes will be overwritten.
-# Please edit ~/.bashrc.custom instead of this file!
-
 # User specific aliases and functions
 
 function parse_git_dirty {
