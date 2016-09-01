@@ -1,3 +1,11 @@
+#!/usr/bin/env ruby
+#
+# a script to convert json to csv. 
+#
+# This was written to help with dumping data from puppetdb
+# and converting it to a CSV
+# Author: Matt Hermanson
+
 require "csv"
 require "json"
 require 'optparse'
